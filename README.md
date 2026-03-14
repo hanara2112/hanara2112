@@ -17,6 +17,4 @@ Recent projects include white-box sycophancy detection in LLMs, multi-turn retri
 ---
 
 **Some personal interests**
-- systems
-- foundation, recompile
-- sometimes small adventures
+- 
