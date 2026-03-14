@@ -17,7 +17,6 @@ Recent projects include white-box sycophancy detection in LLMs, multi-turn retri
 ---
 
 **Some personal interests**
-- Philosophy of explanation and what it means to understand optimized systems
-- Geometry of representation spaces in high dimensions
-- Learning new sports and small adventures
-- Long walks, bad coffee, and occasionally recompiling kernels for no good reason
+- systems
+- foundation, recompile
+- sometimes small adventures
