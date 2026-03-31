@@ -1,1 +1,2 @@
-Who are we pretending to be
+CS @ IIIT Hyderabad
+mostly exploring, sometimes building
